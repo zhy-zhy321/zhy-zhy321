@@ -41,8 +41,8 @@
   ⭐️ 如果你喜欢我的项目，请给个 Star！
 </div>
 <div align="center">
-<img src="![GitHub stars](https://img.shields.io/github/stars/你的用户名/项目名?style=social)"/>
-<img src="![GitHub forks](https://img.shields.io/github/forks/你的用户名/项目名?style=social)"/>
-<img src="![GitHub issues](https://img.shields.io/github/issues/你的用户名/项目名)"/>
-<img src="![GitHub license](https://img.shields.io/github/license/你的用户名/项目名)"/>
+<img src="https://img.shields.io/github/stars/你的用户名/项目名?style=social)"/>
+<img src="https://img.shields.io/github/forks/你的用户名/项目名?style=social)"/>
+<img src="https://img.shields.io/github/issues/你的用户名/项目名)"/>
+<img src="https://img.shields.io/github/license/你的用户名/项目名)"/>
 </div>
