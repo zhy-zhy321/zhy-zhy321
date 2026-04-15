@@ -40,3 +40,7 @@
 <div align="center">
   ⭐️ 如果你喜欢我的项目，请给个 Star！
 </div>
+![GitHub stars](https://img.shields.io/github/stars/你的用户名/项目名?style=social)
+![GitHub forks](https://img.shields.io/github/forks/你的用户名/项目名?style=social)
+![GitHub issues](https://img.shields.io/github/issues/你的用户名/项目名)
+![GitHub license](https://img.shields.io/github/license/你的用户名/项目名)
