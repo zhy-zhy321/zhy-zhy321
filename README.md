@@ -108,3 +108,10 @@
 **© 2026 zhy · 用 ❤️ 和 ☕ 构建**
 
 </div>
+## 🏅 GitHub 成就
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=你的用户名&theme=tokyonight&no-frame=true&row=1&column=6)
+
+</div>
